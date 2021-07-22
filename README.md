@@ -1,6 +1,6 @@
 Trillo
 
-A website showcasing locations and reviews.
+A website for booking hotels showcasing locations and reviews.
 
 Created using- HTML and Sass
 
